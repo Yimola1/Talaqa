@@ -58,6 +58,11 @@ struct LearnView: View {
             }
 
             Section("القراءة والاستماع") {
+                NavigationLink {
+                    DictationView(level: profile.level, profile: profile)
+                } label: {
+                    Label("تمرين الإملاء (استمع واكتب)", systemImage: "ear.fill")
+                }
                 ForEach(ContentStore.shared.stories) { story in
                     NavigationLink {
                         StoryView(story: story, profile: profile)

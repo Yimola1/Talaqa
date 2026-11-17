@@ -13,6 +13,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
 from content_vocab import VOCAB          # noqa: E402
+from content_vocab_extra import VOCAB_EXTRA  # noqa: E402
 from content_grammar import LESSONS      # noqa: E402
 from content_other import PLACEMENT, SCENARIOS, STORIES, SHADOWING  # noqa: E402
 
@@ -44,7 +45,8 @@ def exercise(prefix, i, ex):
 
 def build():
     vocab, seen = [], set()
-    for level, items in VOCAB.items():
+    merged = {lvl: VOCAB.get(lvl, []) + VOCAB_EXTRA.get(lvl, []) for lvl in LEVELS}
+    for level, items in merged.items():
         assert level in LEVELS
         for word, ipa, pos, ar, ex, ex_ar, topic in items:
             wid = f"{level.lower()}-{slug(word)}"

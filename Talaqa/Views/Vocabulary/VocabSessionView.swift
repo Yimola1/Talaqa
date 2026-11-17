@@ -32,7 +32,10 @@ private enum SessionCard: Identifiable {
     }
     /// Production (typing) mode for cards the learner has already seen a few times.
     var isProduction: Bool {
-        if case .review(let c) = self { return c.reps >= 2 && c.state == .review && !c.example.isEmpty }
+        if case .review(let c) = self {
+            return c.reps >= 2 && c.state == .review
+                && c.example.range(of: c.word, options: .caseInsensitive) != nil
+        }
         return false
     }
 }

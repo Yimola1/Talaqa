@@ -100,6 +100,7 @@ struct TodayView: View {
         case .shadowing(let items): ShadowingView(items: items, profile: profile)
         case .conversation(let scenario): TutorChatView(scenario: scenario, profile: profile)
         case .reading(let story): StoryView(story: story, profile: profile)
+        case .dictation(let level): DictationView(level: level, profile: profile)
         }
     }
 }

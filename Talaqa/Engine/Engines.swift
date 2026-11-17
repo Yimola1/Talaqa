@@ -125,6 +125,7 @@ struct PlanTask: Identifiable {
         case shadowing([ShadowingItem])
         case conversation(Scenario)
         case reading(Story)
+        case dictation(CEFRLevel)
     }
 
     let id: String
@@ -186,6 +187,14 @@ enum DailyPlanner {
                 title: "محادثة: \(s.titleAr) \(s.emoji)", subtitle: "مع المعلّم الذكي",
                 icon: "bubble.left.and.bubble.right.fill", color: .green,
                 done: doneSkills.contains(.writing)))
+        }
+
+        if profile.dailyMinutes >= 15 || day % 2 == 1 {
+            tasks.append(PlanTask(
+                id: "dictation", kind: .dictation(profile.level),
+                title: "تمرين الإملاء والاستماع", subtitle: "استمع واكتب ما تسمعه",
+                icon: "ear.fill", color: .pink,
+                done: doneSkills.contains(.listening)))
         }
 
         if profile.dailyMinutes >= 15 || day % 2 == 0 {
