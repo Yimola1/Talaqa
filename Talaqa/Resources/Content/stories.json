@@ -1,0 +1,331 @@
+[
+ {
+  "id": "s-a1-day",
+  "title": "Omar's Day",
+  "titleAr": "يوم عمر",
+  "level": "A1",
+  "paragraphs": [
+   "Omar is a nurse. He lives in a small flat near the hospital. Every day he wakes up at six o'clock.",
+   "He drinks tea and eats bread with cheese for breakfast. Then he walks to work. He likes his job because he helps people.",
+   "In the evening, Omar calls his mother. On Fridays, he visits his family and they eat lunch together."
+  ],
+  "glossary": {
+   "nurse": "ممرّض",
+   "flat": "شقة",
+   "near": "قريب من",
+   "wakes": "يستيقظ",
+   "bread": "خبز",
+   "cheese": "جبنة",
+   "walks": "يمشي",
+   "helps": "يساعد",
+   "evening": "مساء",
+   "visits": "يزور"
+  },
+  "questions": [
+   {
+    "id": "s-a1-day-0",
+    "kind": "multipleChoice",
+    "prompt": "What is Omar's job?",
+    "promptAr": "ما وظيفة عمر؟",
+    "options": [
+     "A teacher",
+     "A nurse",
+     "A driver"
+    ],
+    "answer": "A nurse",
+    "explanationAr": "Omar is a nurse."
+   },
+   {
+    "id": "s-a1-day-1",
+    "kind": "multipleChoice",
+    "prompt": "How does he go to work?",
+    "promptAr": "كيف يذهب إلى العمل؟",
+    "options": [
+     "By bus",
+     "By car",
+     "On foot"
+    ],
+    "answer": "On foot",
+    "explanationAr": "He walks to work."
+   },
+   {
+    "id": "s-a1-day-2",
+    "kind": "multipleChoice",
+    "prompt": "When does he visit his family?",
+    "promptAr": "متى يزور عائلته؟",
+    "options": [
+     "On Fridays",
+     "Every day",
+     "On Mondays"
+    ],
+    "answer": "On Fridays",
+    "explanationAr": "On Fridays, he visits his family."
+   }
+  ]
+ },
+ {
+  "id": "s-a2-trip",
+  "title": "A Trip to Petra",
+  "titleAr": "رحلة إلى البتراء",
+  "level": "A2",
+  "paragraphs": [
+   "Last spring, Lina and her brother travelled to Petra. They left Amman early in the morning and arrived after three hours.",
+   "The weather was warm and sunny. They walked through the narrow canyon and suddenly saw the Treasury. Lina couldn't believe how beautiful it was.",
+   "They climbed many steps to see the Monastery. It was tiring, but the view from the top was amazing. In the evening, they ate dinner at a local restaurant and talked about their favourite moments."
+  ],
+  "glossary": {
+   "travelled": "سافر",
+   "early": "مبكراً",
+   "arrived": "وصل",
+   "narrow": "ضيّق",
+   "canyon": "وادٍ ضيق / سيق",
+   "suddenly": "فجأة",
+   "believe": "يصدّق",
+   "climbed": "صعد",
+   "steps": "درجات",
+   "tiring": "مُتعب",
+   "view": "منظر",
+   "amazing": "مذهل",
+   "local": "محلي"
+  },
+  "questions": [
+   {
+    "id": "s-a2-trip-0",
+    "kind": "multipleChoice",
+    "prompt": "How long was the journey?",
+    "promptAr": "كم استغرقت الرحلة؟",
+    "options": [
+     "One hour",
+     "Three hours",
+     "A whole day"
+    ],
+    "answer": "Three hours",
+    "explanationAr": "They arrived after three hours."
+   },
+   {
+    "id": "s-a2-trip-1",
+    "kind": "multipleChoice",
+    "prompt": "How did Lina feel when she saw the Treasury?",
+    "promptAr": "بماذا شعرت لينا عندما رأت الخزنة؟",
+    "options": [
+     "Bored",
+     "Amazed",
+     "Angry"
+    ],
+    "answer": "Amazed",
+    "explanationAr": "She couldn't believe how beautiful it was."
+   },
+   {
+    "id": "s-a2-trip-2",
+    "kind": "multipleChoice",
+    "prompt": "What was difficult?",
+    "promptAr": "ما الشيء الصعب؟",
+    "options": [
+     "Finding a restaurant",
+     "Climbing the steps",
+     "The weather"
+    ],
+    "answer": "Climbing the steps",
+    "explanationAr": "It was tiring to climb many steps."
+   }
+  ]
+ },
+ {
+  "id": "s-b1-job",
+  "title": "The Interview",
+  "titleAr": "المقابلة",
+  "level": "B1",
+  "paragraphs": [
+   "Sara had been looking for a job for months when she finally received an invitation for an interview at a large tech company. She was excited but also very nervous.",
+   "The night before, she researched the company and practised answering common questions with her friend. She decided to wear a simple, professional outfit.",
+   "During the interview, the manager asked her about a time she had solved a difficult problem. Sara explained how she had organised a project with a tight deadline. A week later, she received an email: she had got the job."
+  ],
+  "glossary": {
+   "finally": "أخيراً",
+   "invitation": "دعوة",
+   "nervous": "متوتّر",
+   "researched": "بحثت عن",
+   "practised": "تدرّبت",
+   "outfit": "ملابس / زيّ",
+   "solved": "حلّت",
+   "organised": "نظّمت",
+   "tight": "ضيّق",
+   "deadline": "موعد نهائي"
+  },
+  "questions": [
+   {
+    "id": "s-b1-job-0",
+    "kind": "multipleChoice",
+    "prompt": "How did Sara feel before the interview?",
+    "promptAr": "كيف شعرت سارة قبل المقابلة؟",
+    "options": [
+     "Relaxed",
+     "Excited and nervous",
+     "Bored"
+    ],
+    "answer": "Excited and nervous",
+    "explanationAr": "She was excited but also very nervous."
+   },
+   {
+    "id": "s-b1-job-1",
+    "kind": "multipleChoice",
+    "prompt": "What did she do the night before?",
+    "promptAr": "ماذا فعلت في الليلة السابقة؟",
+    "options": [
+     "She went to a party",
+     "She prepared for the interview",
+     "She bought new shoes"
+    ],
+    "answer": "She prepared for the interview",
+    "explanationAr": "She researched the company and practised."
+   },
+   {
+    "id": "s-b1-job-2",
+    "kind": "multipleChoice",
+    "prompt": "What was the result?",
+    "promptAr": "ما النتيجة؟",
+    "options": [
+     "She got the job",
+     "She didn't hear back",
+     "She refused the offer"
+    ],
+    "answer": "She got the job",
+    "explanationAr": "She had got the job."
+   }
+  ]
+ },
+ {
+  "id": "s-b2-remote",
+  "title": "The Rise of Remote Work",
+  "titleAr": "صعود العمل عن بُعد",
+  "level": "B2",
+  "paragraphs": [
+   "Over the past few years, remote work has shifted from a rare privilege to a widespread practice. Many companies discovered that employees could remain productive without commuting to an office every day.",
+   "However, the change has not been without challenges. Some workers report feeling isolated, while managers struggle to maintain team spirit and clear communication across different time zones.",
+   "As a result, a hybrid model is emerging as a compromise. Employees spend part of the week at home and part in the office, combining flexibility with the benefits of face-to-face collaboration."
+  ],
+  "glossary": {
+   "shifted": "تحوّل",
+   "privilege": "امتياز",
+   "widespread": "منتشر",
+   "productive": "منتج",
+   "commuting": "التنقّل إلى العمل",
+   "isolated": "معزول",
+   "struggle": "يجد صعوبة",
+   "maintain": "يحافظ على",
+   "hybrid": "هجين",
+   "emerging": "آخذ بالظهور",
+   "compromise": "حلّ وسط",
+   "collaboration": "تعاون"
+  },
+  "questions": [
+   {
+    "id": "s-b2-remote-0",
+    "kind": "multipleChoice",
+    "prompt": "What did many companies discover?",
+    "promptAr": "ماذا اكتشفت الشركات؟",
+    "options": [
+     "Remote workers are less productive",
+     "Employees can be productive at home",
+     "Offices are cheaper"
+    ],
+    "answer": "Employees can be productive at home",
+    "explanationAr": "Employees could remain productive without commuting."
+   },
+   {
+    "id": "s-b2-remote-1",
+    "kind": "multipleChoice",
+    "prompt": "Which problem is mentioned?",
+    "promptAr": "أي مشكلة ذُكرت؟",
+    "options": [
+     "Feeling isolated",
+     "Low salaries",
+     "Slow internet"
+    ],
+    "answer": "Feeling isolated",
+    "explanationAr": "Some workers report feeling isolated."
+   },
+   {
+    "id": "s-b2-remote-2",
+    "kind": "multipleChoice",
+    "prompt": "What is the hybrid model?",
+    "promptAr": "ما هو النموذج الهجين؟",
+    "options": [
+     "Working only at home",
+     "Mixing home and office work",
+     "Working at night"
+    ],
+    "answer": "Mixing home and office work",
+    "explanationAr": "Part of the week at home and part in the office."
+   }
+  ]
+ },
+ {
+  "id": "s-c1-ai",
+  "title": "Learning in the Age of AI",
+  "titleAr": "التعلّم في عصر الذكاء الاصطناعي",
+  "level": "C1",
+  "paragraphs": [
+   "Artificial intelligence is reshaping the way people acquire new skills. Personalised tutors can now adapt explanations to a learner's level, provide instant feedback, and generate endless practice material.",
+   "Critics, nevertheless, caution against over-reliance on such tools. They argue that genuine mastery requires sustained effort, and that the struggle to recall information is precisely what consolidates it in long-term memory.",
+   "The most promising approach, therefore, may be one that leverages technology to remove unnecessary friction while preserving the productive difficulty that makes learning stick."
+  ],
+  "glossary": {
+   "reshaping": "يعيد تشكيل",
+   "acquire": "يكتسب",
+   "personalised": "مخصّص",
+   "adapt": "يكيّف",
+   "caution": "يحذّر",
+   "reliance": "اعتماد",
+   "genuine": "حقيقي",
+   "mastery": "إتقان",
+   "sustained": "متواصل",
+   "consolidates": "يرسّخ",
+   "promising": "واعد",
+   "leverages": "يستفيد من",
+   "friction": "عوائق / احتكاك",
+   "preserving": "يحافظ على"
+  },
+  "questions": [
+   {
+    "id": "s-c1-ai-0",
+    "kind": "multipleChoice",
+    "prompt": "What can AI tutors do according to the text?",
+    "promptAr": "ماذا يستطيع المعلّم الذكي فعله؟",
+    "options": [
+     "Replace all teachers",
+     "Adapt explanations and give instant feedback",
+     "Guarantee fluency in a month"
+    ],
+    "answer": "Adapt explanations and give instant feedback",
+    "explanationAr": "They adapt explanations and provide instant feedback."
+   },
+   {
+    "id": "s-c1-ai-1",
+    "kind": "multipleChoice",
+    "prompt": "Why do critics worry?",
+    "promptAr": "لماذا يقلق المنتقدون؟",
+    "options": [
+     "AI is too expensive",
+     "Effortful recall is important for memory",
+     "AI makes too many mistakes"
+    ],
+    "answer": "Effortful recall is important for memory",
+    "explanationAr": "The struggle to recall consolidates memory."
+   },
+   {
+    "id": "s-c1-ai-2",
+    "kind": "multipleChoice",
+    "prompt": "What does the writer recommend?",
+    "promptAr": "ماذا يقترح الكاتب؟",
+    "options": [
+     "Avoid technology",
+     "Use technology but keep productive difficulty",
+     "Study only with books"
+    ],
+    "answer": "Use technology but keep productive difficulty",
+    "explanationAr": "Leverage technology while preserving productive difficulty."
+   }
+  ]
+ }
+]

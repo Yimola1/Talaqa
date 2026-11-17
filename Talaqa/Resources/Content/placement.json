@@ -1,0 +1,362 @@
+[
+ {
+  "id": "p0",
+  "level": "A1",
+  "prompt": "I ___ a student.",
+  "options": [
+   "is",
+   "am",
+   "are",
+   "be"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p1",
+  "level": "A1",
+  "prompt": "___ is your name?",
+  "options": [
+   "What",
+   "Who",
+   "Where",
+   "How"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "p2",
+  "level": "A1",
+  "prompt": "They ___ from Egypt.",
+  "options": [
+   "is",
+   "am",
+   "are",
+   "be"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p3",
+  "level": "A1",
+  "prompt": "She has two ___.",
+  "options": [
+   "child",
+   "childs",
+   "children",
+   "childrens"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p4",
+  "level": "A1",
+  "prompt": "I ___ coffee every morning.",
+  "options": [
+   "drinks",
+   "drink",
+   "drinking",
+   "am drink"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p5",
+  "level": "A2",
+  "prompt": "I ___ to the cinema last night.",
+  "options": [
+   "go",
+   "goes",
+   "went",
+   "gone"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p6",
+  "level": "A2",
+  "prompt": "This box is ___ than that one.",
+  "options": [
+   "heavy",
+   "heavier",
+   "heaviest",
+   "more heavy"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p7",
+  "level": "A2",
+  "prompt": "Look! The children ___ in the garden.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "played"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p8",
+  "level": "A2",
+  "prompt": "There isn't ___ milk in the fridge.",
+  "options": [
+   "some",
+   "any",
+   "many",
+   "a"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p9",
+  "level": "A2",
+  "prompt": "We ___ visit our grandparents tomorrow.",
+  "options": [
+   "are going to",
+   "going to",
+   "go to",
+   "will to"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "p10",
+  "level": "B1",
+  "prompt": "I ___ here since 2019.",
+  "options": [
+   "live",
+   "lived",
+   "have lived",
+   "am living"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p11",
+  "level": "B1",
+  "prompt": "If it rains, we ___ at home.",
+  "options": [
+   "stay",
+   "will stay",
+   "would stay",
+   "stayed"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p12",
+  "level": "B1",
+  "prompt": "The film was ___ boring that I fell asleep.",
+  "options": [
+   "such",
+   "so",
+   "very",
+   "too"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p13",
+  "level": "B1",
+  "prompt": "She asked me where ___.",
+  "options": [
+   "do I live",
+   "I lived",
+   "did I live",
+   "I am live"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p14",
+  "level": "B1",
+  "prompt": "I'm not used to ___ up so early.",
+  "options": [
+   "get",
+   "getting",
+   "got",
+   "be getting"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p15",
+  "level": "B2",
+  "prompt": "The report ___ by the end of the week.",
+  "options": [
+   "will finish",
+   "will be finished",
+   "is finishing",
+   "finishes"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p16",
+  "level": "B2",
+  "prompt": "If I ___ you, I would accept the offer.",
+  "options": [
+   "am",
+   "was been",
+   "were",
+   "will be"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p17",
+  "level": "B2",
+  "prompt": "She denied ___ the money.",
+  "options": [
+   "to take",
+   "taking",
+   "take",
+   "took"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p18",
+  "level": "B2",
+  "prompt": "By the time we arrived, the train ___.",
+  "options": [
+   "left",
+   "has left",
+   "had left",
+   "was leaving"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p19",
+  "level": "B2",
+  "prompt": "He's the man ___ car was stolen.",
+  "options": [
+   "who",
+   "which",
+   "whose",
+   "that"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "p20",
+  "level": "C1",
+  "prompt": "Not only ___ late, but he also forgot the documents.",
+  "options": [
+   "he was",
+   "was he",
+   "he is",
+   "did he"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p21",
+  "level": "C1",
+  "prompt": "Had I known about the problem, I ___ it.",
+  "options": [
+   "would fix",
+   "would have fixed",
+   "will fix",
+   "fixed"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p22",
+  "level": "C1",
+  "prompt": "The proposal was rejected on the ___ that it was too expensive.",
+  "options": [
+   "basis",
+   "grounds",
+   "reason",
+   "cause"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p23",
+  "level": "C1",
+  "prompt": "She is ___ to be the best candidate for the job.",
+  "options": [
+   "considered",
+   "considering",
+   "consider",
+   "to consider"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "p24",
+  "level": "C1",
+  "prompt": "It's high time we ___ a decision.",
+  "options": [
+   "make",
+   "made",
+   "will make",
+   "have made"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p25",
+  "level": "C2",
+  "prompt": "Little ___ that his life was about to change forever.",
+  "options": [
+   "he knew",
+   "did he know",
+   "he did know",
+   "knew he"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p26",
+  "level": "C2",
+  "prompt": "The minister's speech did little to ___ public fears.",
+  "options": [
+   "allay",
+   "allow",
+   "alley",
+   "alloy"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "p27",
+  "level": "C2",
+  "prompt": "Her argument, while ___, failed to convince the committee.",
+  "options": [
+   "cogent",
+   "cognate",
+   "coherent to",
+   "cogently"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "p28",
+  "level": "C2",
+  "prompt": "Were the government ___ taxes, there would be protests.",
+  "options": [
+   "raising",
+   "to raise",
+   "raised",
+   "raise"
+  ],
+  "answer": 1
+ },
+ {
+  "id": "p29",
+  "level": "C2",
+  "prompt": "The results were inconclusive, ___ further research.",
+  "options": [
+   "necessitating",
+   "necessitated",
+   "to necessitate",
+   "necessity"
+  ],
+  "answer": 0
+ }
+]

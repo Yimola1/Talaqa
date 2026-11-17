@@ -1,0 +1,181 @@
+[
+ {
+  "id": "cafe",
+  "title": "Ordering at a café",
+  "titleAr": "الطلب في مقهى",
+  "emoji": "☕",
+  "level": "A1",
+  "setting": "A busy café in London. The learner wants to order a drink and something to eat.",
+  "aiRole": "a friendly barista named Sam. Ask what they'd like, offer sizes and extras, tell them the price.",
+  "opening": "Hi there! Welcome to Bean Corner. What can I get for you today?",
+  "goalsAr": [
+   "اطلب مشروباً وشيئاً للأكل",
+   "اسأل عن السعر",
+   "ادفع وودّع بلطف"
+  ]
+ },
+ {
+  "id": "intro",
+  "title": "Meeting someone new",
+  "titleAr": "التعارف على شخص جديد",
+  "emoji": "👋",
+  "level": "A1",
+  "setting": "A welcome party for new students at a language school.",
+  "aiRole": "Emma, a friendly student from Canada. Ask simple questions about name, country, job, and hobbies.",
+  "opening": "Hi! I'm Emma. I don't think we've met. What's your name?",
+  "goalsAr": [
+   "عرّف بنفسك",
+   "تحدّث عن عملك أو دراستك",
+   "اسأل عن هواياتها"
+  ]
+ },
+ {
+  "id": "directions",
+  "title": "Asking for directions",
+  "titleAr": "السؤال عن الطريق",
+  "emoji": "🗺️",
+  "level": "A2",
+  "setting": "A street in a city the learner is visiting for the first time.",
+  "aiRole": "a helpful local resident. Give simple directions with left/right/straight on, landmarks, and distances.",
+  "opening": "You look a bit lost. Can I help you find something?",
+  "goalsAr": [
+   "اسأل عن مكان",
+   "افهم الاتجاهات",
+   "تأكّد من المسافة والوقت"
+  ]
+ },
+ {
+  "id": "hotel",
+  "title": "Checking into a hotel",
+  "titleAr": "تسجيل الدخول في فندق",
+  "emoji": "🏨",
+  "level": "A2",
+  "setting": "The reception desk of a hotel. The learner has a booking.",
+  "aiRole": "a polite hotel receptionist. Ask for the booking name and passport, explain breakfast times and Wi-Fi, handle a small problem with the room.",
+  "opening": "Good evening and welcome to the Grand Plaza. Do you have a reservation with us?",
+  "goalsAr": [
+   "أكّد حجزك",
+   "اسأل عن الفطور والإنترنت",
+   "اطلب تغيير الغرفة بأدب"
+  ]
+ },
+ {
+  "id": "doctor",
+  "title": "At the doctor's",
+  "titleAr": "عند الطبيب",
+  "emoji": "🩺",
+  "level": "B1",
+  "setting": "A GP clinic. The learner has not been feeling well for a few days.",
+  "aiRole": "a caring doctor. Ask about symptoms, how long, any allergies, and give simple advice.",
+  "opening": "Hello, come in and have a seat. So, what seems to be the problem today?",
+  "goalsAr": [
+   "صف أعراضك بدقة",
+   "اذكر المدة",
+   "اسأل عن العلاج"
+  ]
+ },
+ {
+  "id": "interview",
+  "title": "Job interview",
+  "titleAr": "مقابلة عمل",
+  "emoji": "💼",
+  "level": "B1",
+  "setting": "A job interview for a position that matches the learner's background.",
+  "aiRole": "a professional but friendly HR manager. Ask common interview questions one at a time: about experience, strengths, weaknesses, and why they want the job.",
+  "opening": "Thanks for coming in today. To start, could you tell me a little about yourself?",
+  "goalsAr": [
+   "عرّف بنفسك بشكل مهني",
+   "تحدّث عن خبرتك ونقاط قوتك",
+   "اطرح سؤالاً على المقابِل"
+  ]
+ },
+ {
+  "id": "complaint",
+  "title": "Making a complaint",
+  "titleAr": "تقديم شكوى",
+  "emoji": "📦",
+  "level": "B1",
+  "setting": "A phone call to an online shop. The learner received a damaged product.",
+  "aiRole": "a customer service agent. Ask for the order number, apologise, offer options like refund or replacement.",
+  "opening": "Thank you for calling ShopEasy customer service. My name is Alex. How can I help you today?",
+  "goalsAr": [
+   "اشرح المشكلة بوضوح",
+   "اطلب حلاً مناسباً",
+   "حافظ على نبرة مهذّبة وحازمة"
+  ]
+ },
+ {
+  "id": "meeting",
+  "title": "Team meeting",
+  "titleAr": "اجتماع عمل",
+  "emoji": "📊",
+  "level": "B2",
+  "setting": "A weekly team meeting about a project that is behind schedule.",
+  "aiRole": "a team leader. Ask for a progress update, discuss problems, and push the learner to propose solutions and agree on next steps.",
+  "opening": "Okay, let's get started. Could you give us a quick update on where your part of the project stands?",
+  "goalsAr": [
+   "قدّم تحديثاً واضحاً",
+   "اقترح حلولاً",
+   "اتفق على الخطوات التالية"
+  ]
+ },
+ {
+  "id": "debate",
+  "title": "Friendly debate",
+  "titleAr": "نقاش ودّي",
+  "emoji": "🗣️",
+  "level": "B2",
+  "setting": "A discussion between friends about whether social media does more harm than good.",
+  "aiRole": "a friend who takes the opposite view to the learner. Challenge their arguments politely and ask for examples.",
+  "opening": "Honestly, I think social media has made our lives better. Don't you agree?",
+  "goalsAr": [
+   "عبّر عن رأيك",
+   "استخدم أدوات الربط (however, whereas…)",
+   "ادعم رأيك بأمثلة"
+  ]
+ },
+ {
+  "id": "ielts",
+  "title": "IELTS Speaking Part 2 & 3",
+  "titleAr": "محاكاة IELTS Speaking",
+  "emoji": "🎓",
+  "level": "B2",
+  "setting": "An IELTS speaking test. Part 2 cue card followed by Part 3 discussion.",
+  "aiRole": "an IELTS examiner. Give a cue card topic, let the learner talk, then ask deeper Part 3 questions. At the end, estimate a band score with brief reasons.",
+  "opening": "Good afternoon. In this part, I'm going to give you a topic: describe a place you visited that you would like to return to. You should say where it is, when you went, what you did there, and explain why you'd like to go back. Please begin when you're ready.",
+  "goalsAr": [
+   "تحدّث لمدة دقيقة إلى دقيقتين",
+   "نظّم أفكارك",
+   "استخدم مفردات متنوعة"
+  ]
+ },
+ {
+  "id": "negotiation",
+  "title": "Salary negotiation",
+  "titleAr": "التفاوض على الراتب",
+  "emoji": "🤝",
+  "level": "C1",
+  "setting": "A final-round conversation after receiving a job offer.",
+  "aiRole": "a hiring manager with a limited budget. Be polite but firm; the learner must negotiate with diplomatic language.",
+  "opening": "We're really pleased to offer you the position. The starting salary would be 3,000 a month. How does that sound to you?",
+  "goalsAr": [
+   "عبّر عن امتنانك",
+   "فاوض بلغة دبلوماسية",
+   "اقترح بدائل (مزايا، مراجعة لاحقة)"
+  ]
+ },
+ {
+  "id": "free",
+  "title": "Free conversation",
+  "titleAr": "محادثة حرّة",
+  "emoji": "💬",
+  "level": "A1",
+  "setting": "A relaxed chat about anything the learner wants to talk about.",
+  "aiRole": "a curious, friendly conversation partner. Follow the learner's interests and ask follow-up questions.",
+  "opening": "Hey! What would you like to talk about today?",
+  "goalsAr": [
+   "تحدّث بحرية عن أي موضوع",
+   "جرّب كلمات جديدة تعلّمتها"
+  ]
+ }
+]

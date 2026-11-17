@@ -1,0 +1,258 @@
+[
+ {
+  "id": "p-vs-b-0",
+  "text": "Please pass the paper.",
+  "focus": "p vs b",
+  "focusAr": "التمييز بين P و B",
+  "tipAr": "صوت P يخرج مع نفخة هواء بدون اهتزاز الحنجرة. ضع ورقة أمام فمك: يجب أن تتحرك مع P.",
+  "level": "A1"
+ },
+ {
+  "id": "p-vs-b-1",
+  "text": "Put the pen in the bag.",
+  "focus": "p vs b",
+  "focusAr": "التمييز بين P و B",
+  "tipAr": "صوت P يخرج مع نفخة هواء بدون اهتزاز الحنجرة. ضع ورقة أمام فمك: يجب أن تتحرك مع P.",
+  "level": "A1"
+ },
+ {
+  "id": "p-vs-b-2",
+  "text": "The baby is playing in the park.",
+  "focus": "p vs b",
+  "focusAr": "التمييز بين P و B",
+  "tipAr": "صوت P يخرج مع نفخة هواء بدون اهتزاز الحنجرة. ضع ورقة أمام فمك: يجب أن تتحرك مع P.",
+  "level": "A1"
+ },
+ {
+  "id": "p-vs-b-3",
+  "text": "Peter bought a big pizza.",
+  "focus": "p vs b",
+  "focusAr": "التمييز بين P و B",
+  "tipAr": "صوت P يخرج مع نفخة هواء بدون اهتزاز الحنجرة. ضع ورقة أمام فمك: يجب أن تتحرك مع P.",
+  "level": "A1"
+ },
+ {
+  "id": "v-vs-f-0",
+  "text": "I have a very fast van.",
+  "focus": "v vs f",
+  "focusAr": "التمييز بين V و F",
+  "tipAr": "في V تلمس أسنانك العلوية شفتك السفلى مع اهتزاز الصوت، وفي F بدون اهتزاز.",
+  "level": "A1"
+ },
+ {
+  "id": "v-vs-f-1",
+  "text": "Five friends visited Vienna.",
+  "focus": "v vs f",
+  "focusAr": "التمييز بين V و F",
+  "tipAr": "في V تلمس أسنانك العلوية شفتك السفلى مع اهتزاز الصوت، وفي F بدون اهتزاز.",
+  "level": "A1"
+ },
+ {
+  "id": "v-vs-f-2",
+  "text": "Victor found a fine view.",
+  "focus": "v vs f",
+  "focusAr": "التمييز بين V و F",
+  "tipAr": "في V تلمس أسنانك العلوية شفتك السفلى مع اهتزاز الصوت، وفي F بدون اهتزاز.",
+  "level": "A1"
+ },
+ {
+  "id": "v-vs-f-3",
+  "text": "My favourite food is vegetables.",
+  "focus": "v vs f",
+  "focusAr": "التمييز بين V و F",
+  "tipAr": "في V تلمس أسنانك العلوية شفتك السفلى مع اهتزاز الصوت، وفي F بدون اهتزاز.",
+  "level": "A1"
+ },
+ {
+  "id": "th-sounds-0",
+  "text": "I think this is the third one.",
+  "focus": "th sounds",
+  "focusAr": "صوتا TH",
+  "tipAr": "صوت th في think يشبه «ث»، وفي this يشبه «ذ». أخرج طرف لسانك قليلاً بين أسنانك.",
+  "level": "A2"
+ },
+ {
+  "id": "th-sounds-1",
+  "text": "My mother and father are there.",
+  "focus": "th sounds",
+  "focusAr": "صوتا TH",
+  "tipAr": "صوت th في think يشبه «ث»، وفي this يشبه «ذ». أخرج طرف لسانك قليلاً بين أسنانك.",
+  "level": "A2"
+ },
+ {
+  "id": "th-sounds-2",
+  "text": "Thank you for the thoughtful gift.",
+  "focus": "th sounds",
+  "focusAr": "صوتا TH",
+  "tipAr": "صوت th في think يشبه «ث»، وفي this يشبه «ذ». أخرج طرف لسانك قليلاً بين أسنانك.",
+  "level": "A2"
+ },
+ {
+  "id": "th-sounds-3",
+  "text": "They thought that the weather was good.",
+  "focus": "th sounds",
+  "focusAr": "صوتا TH",
+  "tipAr": "صوت th في think يشبه «ث»، وفي this يشبه «ذ». أخرج طرف لسانك قليلاً بين أسنانك.",
+  "level": "A2"
+ },
+ {
+  "id": "short-vs-long-vowels-0",
+  "text": "Is this seat free?",
+  "focus": "short vs long vowels",
+  "focusAr": "الحركات القصيرة والطويلة",
+  "tipAr": "ship (قصيرة) غير sheep (طويلة). مدّ الصوت في الكلمات الطويلة مثل sheep, leave, seat.",
+  "level": "A2"
+ },
+ {
+  "id": "short-vs-long-vowels-1",
+  "text": "Please don't leave the ship.",
+  "focus": "short vs long vowels",
+  "focusAr": "الحركات القصيرة والطويلة",
+  "tipAr": "ship (قصيرة) غير sheep (طويلة). مدّ الصوت في الكلمات الطويلة مثل sheep, leave, seat.",
+  "level": "A2"
+ },
+ {
+  "id": "short-vs-long-vowels-2",
+  "text": "I live near a green hill.",
+  "focus": "short vs long vowels",
+  "focusAr": "الحركات القصيرة والطويلة",
+  "tipAr": "ship (قصيرة) غير sheep (طويلة). مدّ الصوت في الكلمات الطويلة مثل sheep, leave, seat.",
+  "level": "A2"
+ },
+ {
+  "id": "short-vs-long-vowels-3",
+  "text": "Fill the cup and feel the heat.",
+  "focus": "short vs long vowels",
+  "focusAr": "الحركات القصيرة والطويلة",
+  "tipAr": "ship (قصيرة) غير sheep (طويلة). مدّ الصوت في الكلمات الطويلة مثل sheep, leave, seat.",
+  "level": "A2"
+ },
+ {
+  "id": "consonant-clusters-0",
+  "text": "She studies at the street school.",
+  "focus": "consonant clusters",
+  "focusAr": "تجمّع الحروف الساكنة",
+  "tipAr": "لا تضف حرفاً متحركاً بين الحروف الساكنة: قل street وليس «ستريت» بحركة زائدة، وspring وليس «إسبرنغ».",
+  "level": "B1"
+ },
+ {
+  "id": "consonant-clusters-1",
+  "text": "Spring is my favourite season.",
+  "focus": "consonant clusters",
+  "focusAr": "تجمّع الحروف الساكنة",
+  "tipAr": "لا تضف حرفاً متحركاً بين الحروف الساكنة: قل street وليس «ستريت» بحركة زائدة، وspring وليس «إسبرنغ».",
+  "level": "B1"
+ },
+ {
+  "id": "consonant-clusters-2",
+  "text": "The strong student spoke slowly.",
+  "focus": "consonant clusters",
+  "focusAr": "تجمّع الحروف الساكنة",
+  "tipAr": "لا تضف حرفاً متحركاً بين الحروف الساكنة: قل street وليس «ستريت» بحركة زائدة، وspring وليس «إسبرنغ».",
+  "level": "B1"
+ },
+ {
+  "id": "consonant-clusters-3",
+  "text": "He explained the next steps clearly.",
+  "focus": "consonant clusters",
+  "focusAr": "تجمّع الحروف الساكنة",
+  "tipAr": "لا تضف حرفاً متحركاً بين الحروف الساكنة: قل street وليس «ستريت» بحركة زائدة، وspring وليس «إسبرنغ».",
+  "level": "B1"
+ },
+ {
+  "id": "word-stress-0",
+  "text": "I need a photograph for my passport.",
+  "focus": "word stress",
+  "focusAr": "النبر في الكلمات",
+  "tipAr": "الكلمة الإنجليزية لها مقطع واحد أقوى: PHOtograph، phoTOgrapher، photoGRAPHic.",
+  "level": "B1"
+ },
+ {
+  "id": "word-stress-1",
+  "text": "The economy is improving this year.",
+  "focus": "word stress",
+  "focusAr": "النبر في الكلمات",
+  "tipAr": "الكلمة الإنجليزية لها مقطع واحد أقوى: PHOtograph، phoTOgrapher، photoGRAPHic.",
+  "level": "B1"
+ },
+ {
+  "id": "word-stress-2",
+  "text": "She's a professional photographer.",
+  "focus": "word stress",
+  "focusAr": "النبر في الكلمات",
+  "tipAr": "الكلمة الإنجليزية لها مقطع واحد أقوى: PHOtograph، phoTOgrapher، photoGRAPHic.",
+  "level": "B1"
+ },
+ {
+  "id": "word-stress-3",
+  "text": "Communication is important in every relationship.",
+  "focus": "word stress",
+  "focusAr": "النبر في الكلمات",
+  "tipAr": "الكلمة الإنجليزية لها مقطع واحد أقوى: PHOtograph، phoTOgrapher، photoGRAPHic.",
+  "level": "B1"
+ },
+ {
+  "id": "linking-and-rhythm-0",
+  "text": "Can you pick it up for me?",
+  "focus": "linking and rhythm",
+  "focusAr": "ربط الكلمات والإيقاع",
+  "tipAr": "الناطقون الأصليون يربطون الكلمات: pick it up تُنطق «پِكِتَپ». ركّز على الكلمات المهمة وخفّف الصغيرة.",
+  "level": "B2"
+ },
+ {
+  "id": "linking-and-rhythm-1",
+  "text": "What are you going to do about it?",
+  "focus": "linking and rhythm",
+  "focusAr": "ربط الكلمات والإيقاع",
+  "tipAr": "الناطقون الأصليون يربطون الكلمات: pick it up تُنطق «پِكِتَپ». ركّز على الكلمات المهمة وخفّف الصغيرة.",
+  "level": "B2"
+ },
+ {
+  "id": "linking-and-rhythm-2",
+  "text": "I'd like a cup of tea, please.",
+  "focus": "linking and rhythm",
+  "focusAr": "ربط الكلمات والإيقاع",
+  "tipAr": "الناطقون الأصليون يربطون الكلمات: pick it up تُنطق «پِكِتَپ». ركّز على الكلمات المهمة وخفّف الصغيرة.",
+  "level": "B2"
+ },
+ {
+  "id": "linking-and-rhythm-3",
+  "text": "Turn it off and put it away.",
+  "focus": "linking and rhythm",
+  "focusAr": "ربط الكلمات والإيقاع",
+  "tipAr": "الناطقون الأصليون يربطون الكلمات: pick it up تُنطق «پِكِتَپ». ركّز على الكلمات المهمة وخفّف الصغيرة.",
+  "level": "B2"
+ },
+ {
+  "id": "question-intonation-0",
+  "text": "Are you coming to the party tonight?",
+  "focus": "question intonation",
+  "focusAr": "تنغيم الأسئلة",
+  "tipAr": "في أسئلة yes/no يرتفع الصوت في آخر السؤال، وفي أسئلة where/why/what ينخفض غالباً.",
+  "level": "B2"
+ },
+ {
+  "id": "question-intonation-1",
+  "text": "Where did you put my keys?",
+  "focus": "question intonation",
+  "focusAr": "تنغيم الأسئلة",
+  "tipAr": "في أسئلة yes/no يرتفع الصوت في آخر السؤال، وفي أسئلة where/why/what ينخفض غالباً.",
+  "level": "B2"
+ },
+ {
+  "id": "question-intonation-2",
+  "text": "Would you like some more coffee?",
+  "focus": "question intonation",
+  "focusAr": "تنغيم الأسئلة",
+  "tipAr": "في أسئلة yes/no يرتفع الصوت في آخر السؤال، وفي أسئلة where/why/what ينخفض غالباً.",
+  "level": "B2"
+ },
+ {
+  "id": "question-intonation-3",
+  "text": "Why didn't you call me yesterday?",
+  "focus": "question intonation",
+  "focusAr": "تنغيم الأسئلة",
+  "tipAr": "في أسئلة yes/no يرتفع الصوت في آخر السؤال، وفي أسئلة where/why/what ينخفض غالباً.",
+  "level": "B2"
+ }
+]

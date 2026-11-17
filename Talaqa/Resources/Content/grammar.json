@@ -1,0 +1,1203 @@
+[
+ {
+  "id": "a1-to-be",
+  "title": "The verb 'to be'",
+  "titleAr": "فعل الكينونة: am / is / are",
+  "level": "A1",
+  "summaryAr": "في العربية نقول «أنا طالب» بدون فعل، لكن الإنجليزية تحتاج دائماً فعل be.",
+  "sections": [
+   {
+    "headingAr": "التصريف",
+    "bodyAr": "نستخدم am مع I، وis مع he/she/it، وare مع you/we/they.",
+    "examples": [
+     "I am a student.",
+     "She is a doctor.",
+     "They are at home."
+    ]
+   },
+   {
+    "headingAr": "النفي والسؤال",
+    "bodyAr": "للنفي نضيف not بعد الفعل. وللسؤال نقدّم الفعل على الفاعل.",
+    "examples": [
+     "He is not (isn't) busy.",
+     "Are you ready?",
+     "Is it cold today?"
+    ]
+   }
+  ],
+  "arabicTip": "لا تحذف الفعل! الخطأ الشائع: «She very happy» والصحيح: She is very happy.",
+  "exercises": [
+   {
+    "id": "a1-to-be-0",
+    "kind": "multipleChoice",
+    "prompt": "She ___ my sister.",
+    "promptAr": "اختر الكلمة الصحيحة",
+    "options": [
+     "am",
+     "is",
+     "are"
+    ],
+    "answer": "is",
+    "explanationAr": "مع she نستخدم is."
+   },
+   {
+    "id": "a1-to-be-1",
+    "kind": "multipleChoice",
+    "prompt": "We ___ from Jordan.",
+    "promptAr": "اختر الكلمة الصحيحة",
+    "options": [
+     "is",
+     "am",
+     "are"
+    ],
+    "answer": "are",
+    "explanationAr": "مع we نستخدم are."
+   },
+   {
+    "id": "a1-to-be-2",
+    "kind": "fillBlank",
+    "prompt": "I ___ a teacher.",
+    "promptAr": "أكمل الفراغ",
+    "options": null,
+    "answer": "am|'m",
+    "explanationAr": "مع I نستخدم am دائماً."
+   },
+   {
+    "id": "a1-to-be-3",
+    "kind": "fillBlank",
+    "prompt": "___ they at school? (question)",
+    "promptAr": "أكمل السؤال",
+    "options": null,
+    "answer": "are",
+    "explanationAr": "للسؤال نبدأ بالفعل: Are they…?"
+   },
+   {
+    "id": "a1-to-be-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات لتكوين جملة صحيحة",
+    "options": null,
+    "answer": "My father is an engineer",
+    "explanationAr": "الترتيب: الفاعل + is + الوصف. ولاحظ an قبل engineer لأنها تبدأ بصوت متحرك."
+   },
+   {
+    "id": "a1-to-be-5",
+    "kind": "multipleChoice",
+    "prompt": "Which sentence is correct?",
+    "promptAr": "أي جملة صحيحة؟",
+    "options": [
+     "He happy.",
+     "He is happy.",
+     "He are happy."
+    ],
+    "answer": "He is happy.",
+    "explanationAr": "لا يمكن حذف is في الإنجليزية."
+   }
+  ]
+ },
+ {
+  "id": "a1-present-simple",
+  "title": "Present simple",
+  "titleAr": "المضارع البسيط",
+  "level": "A1",
+  "summaryAr": "للعادات والحقائق والأشياء التي تتكرّر.",
+  "sections": [
+   {
+    "headingAr": "القاعدة",
+    "bodyAr": "نستخدم الفعل كما هو، ونضيف s أو es مع he/she/it.",
+    "examples": [
+     "I drink tea every day.",
+     "She works in a hospital.",
+     "Water boils at 100 degrees."
+    ]
+   },
+   {
+    "headingAr": "النفي والسؤال",
+    "bodyAr": "نستخدم do/does. ومع does يعود الفعل لأصله بدون s.",
+    "examples": [
+     "He doesn't like coffee.",
+     "Do you speak English?",
+     "Does she live here?"
+    ]
+   }
+  ],
+  "arabicTip": "لا تنسَ s مع he/she/it: «He go» خطأ، والصحيح He goes.",
+  "exercises": [
+   {
+    "id": "a1-present-simple-0",
+    "kind": "multipleChoice",
+    "prompt": "My brother ___ football every Friday.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "play",
+     "plays",
+     "playing"
+    ],
+    "answer": "plays",
+    "explanationAr": "مع my brother (he) نضيف s."
+   },
+   {
+    "id": "a1-present-simple-1",
+    "kind": "multipleChoice",
+    "prompt": "___ you like pizza?",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "Does",
+     "Do",
+     "Are"
+    ],
+    "answer": "Do",
+    "explanationAr": "مع you نستخدم Do."
+   },
+   {
+    "id": "a1-present-simple-2",
+    "kind": "fillBlank",
+    "prompt": "She ___ (not / like) spicy food.",
+    "promptAr": "اكتب الصيغة المنفية",
+    "options": null,
+    "answer": "doesn't like|does not like",
+    "explanationAr": "مع she: doesn't + الفعل بدون s."
+   },
+   {
+    "id": "a1-present-simple-3",
+    "kind": "fillBlank",
+    "prompt": "He ___ (watch) TV in the evening.",
+    "promptAr": "صرّف الفعل",
+    "options": null,
+    "answer": "watches",
+    "explanationAr": "الأفعال المنتهية بـ ch نضيف لها es."
+   },
+   {
+    "id": "a1-present-simple-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "Where do you live",
+    "explanationAr": "السؤال: كلمة الاستفهام + do + الفاعل + الفعل."
+   }
+  ]
+ },
+ {
+  "id": "a1-articles",
+  "title": "Articles: a, an, the",
+  "titleAr": "أدوات التعريف والتنكير",
+  "level": "A1",
+  "summaryAr": "من أصعب النقاط على العرب: متى نستخدم a/an، ومتى the، ومتى لا شيء.",
+  "sections": [
+   {
+    "headingAr": "a / an",
+    "bodyAr": "مع الاسم المفرد المعدود عند ذكره لأول مرة أو لوصف المهنة. an قبل الصوت المتحرك.",
+    "examples": [
+     "I have a car.",
+     "She is an engineer.",
+     "It takes an hour."
+    ]
+   },
+   {
+    "headingAr": "the",
+    "bodyAr": "عندما يكون الشيء معروفاً أو مذكوراً سابقاً أو فريداً.",
+    "examples": [
+     "I bought a book. The book is great.",
+     "The sun is hot.",
+     "Close the door, please."
+    ]
+   },
+   {
+    "headingAr": "بدون أداة",
+    "bodyAr": "مع الجمع والأشياء غير المعدودة عند التعميم.",
+    "examples": [
+     "I like cats.",
+     "Money isn't everything.",
+     "Children love games."
+    ]
+   }
+  ],
+  "arabicTip": "في العربية نقول «الحياة جميلة» مع «ال»، لكن بالإنجليزية: Life is beautiful (بدون the) لأننا نتكلم بشكل عام.",
+  "exercises": [
+   {
+    "id": "a1-articles-0",
+    "kind": "multipleChoice",
+    "prompt": "He is ___ honest man.",
+    "promptAr": "اختر الأداة",
+    "options": [
+     "a",
+     "an",
+     "the"
+    ],
+    "answer": "an",
+    "explanationAr": "honest تبدأ بصوت متحرك لأن h صامتة."
+   },
+   {
+    "id": "a1-articles-1",
+    "kind": "multipleChoice",
+    "prompt": "I love ___ music.",
+    "promptAr": "اختر الأداة",
+    "options": [
+     "the",
+     "a",
+     "— (no article)"
+    ],
+    "answer": "— (no article)",
+    "explanationAr": "عند الحديث عن الموسيقى بشكل عام لا نستخدم أداة."
+   },
+   {
+    "id": "a1-articles-2",
+    "kind": "multipleChoice",
+    "prompt": "Can you open ___ window?",
+    "promptAr": "اختر الأداة",
+    "options": [
+     "a",
+     "the",
+     "an"
+    ],
+    "answer": "the",
+    "explanationAr": "نافذة معروفة للطرفين."
+   },
+   {
+    "id": "a1-articles-3",
+    "kind": "fillBlank",
+    "prompt": "My sister is ___ doctor.",
+    "promptAr": "أكمل بالأداة",
+    "options": null,
+    "answer": "a",
+    "explanationAr": "مع المهن نستخدم a/an."
+   },
+   {
+    "id": "a1-articles-4",
+    "kind": "fillBlank",
+    "prompt": "___ moon is beautiful tonight.",
+    "promptAr": "أكمل بالأداة",
+    "options": null,
+    "answer": "the",
+    "explanationAr": "القمر شيء فريد فنستخدم the."
+   }
+  ]
+ },
+ {
+  "id": "a2-past-simple",
+  "title": "Past simple",
+  "titleAr": "الماضي البسيط",
+  "level": "A2",
+  "summaryAr": "لأحداث انتهت في وقت محدّد في الماضي.",
+  "sections": [
+   {
+    "headingAr": "الأفعال المنتظمة والشاذة",
+    "bodyAr": "نضيف ed للأفعال المنتظمة، والشاذة لها صيغ خاصة يجب حفظها.",
+    "examples": [
+     "I visited my grandmother yesterday.",
+     "We went to the beach last summer.",
+     "She bought a new dress."
+    ]
+   },
+   {
+    "headingAr": "النفي والسؤال",
+    "bodyAr": "نستخدم did، ويعود الفعل لأصله.",
+    "examples": [
+     "I didn't see him.",
+     "Did you finish your work?",
+     "Where did they go?"
+    ]
+   }
+  ],
+  "arabicTip": "بعد did يأتي الفعل في أصله: «Did you went» خطأ، والصحيح Did you go.",
+  "exercises": [
+   {
+    "id": "a2-past-simple-0",
+    "kind": "multipleChoice",
+    "prompt": "We ___ a great film last night.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "see",
+     "saw",
+     "seen"
+    ],
+    "answer": "saw",
+    "explanationAr": "see فعل شاذ وماضيه saw."
+   },
+   {
+    "id": "a2-past-simple-1",
+    "kind": "multipleChoice",
+    "prompt": "Did she ___ the email?",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "sent",
+     "send",
+     "sends"
+    ],
+    "answer": "send",
+    "explanationAr": "بعد did الفعل بدون تصريف."
+   },
+   {
+    "id": "a2-past-simple-2",
+    "kind": "fillBlank",
+    "prompt": "They ___ (travel) to Turkey in 2022.",
+    "promptAr": "صرّف الفعل",
+    "options": null,
+    "answer": "travelled|traveled",
+    "explanationAr": "فعل منتظم: travel → travelled."
+   },
+   {
+    "id": "a2-past-simple-3",
+    "kind": "fillBlank",
+    "prompt": "I ___ (not / go) to work yesterday.",
+    "promptAr": "اكتب النفي",
+    "options": null,
+    "answer": "didn't go|did not go",
+    "explanationAr": "النفي: didn't + الفعل الأصلي."
+   },
+   {
+    "id": "a2-past-simple-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "What time did you wake up",
+    "explanationAr": "السؤال بالماضي: كلمة الاستفهام + did + الفاعل + الفعل."
+   }
+  ]
+ },
+ {
+  "id": "a2-continuous",
+  "title": "Present continuous vs present simple",
+  "titleAr": "المضارع المستمر مقابل البسيط",
+  "level": "A2",
+  "summaryAr": "المستمر لما يحدث الآن أو مؤقتاً، والبسيط للعادات والحقائق.",
+  "sections": [
+   {
+    "headingAr": "المضارع المستمر",
+    "bodyAr": "am/is/are + فعل ing لشيء يحدث الآن أو هذه الفترة أو خطة قريبة.",
+    "examples": [
+     "I'm reading a great book these days.",
+     "Look! It's raining.",
+     "We're meeting Ali tomorrow."
+    ]
+   },
+   {
+    "headingAr": "أفعال الحالة",
+    "bodyAr": "أفعال مثل know, like, want, need لا تأتي عادة بصيغة ing.",
+    "examples": [
+     "I know the answer.",
+     "She wants a coffee.",
+     "Do you understand?"
+    ]
+   }
+  ],
+  "arabicTip": "خطأ شائع: «I am knowing him» والصحيح I know him.",
+  "exercises": [
+   {
+    "id": "a2-continuous-0",
+    "kind": "multipleChoice",
+    "prompt": "Be quiet! The baby ___.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "sleeps",
+     "is sleeping",
+     "sleep"
+    ],
+    "answer": "is sleeping",
+    "explanationAr": "شيء يحدث الآن."
+   },
+   {
+    "id": "a2-continuous-1",
+    "kind": "multipleChoice",
+    "prompt": "I usually ___ to work by bus.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "am going",
+     "go",
+     "goes"
+    ],
+    "answer": "go",
+    "explanationAr": "usually تدل على عادة."
+   },
+   {
+    "id": "a2-continuous-2",
+    "kind": "multipleChoice",
+    "prompt": "I ___ what you mean.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "am understanding",
+     "understand",
+     "understanding"
+    ],
+    "answer": "understand",
+    "explanationAr": "understand فعل حالة."
+   },
+   {
+    "id": "a2-continuous-3",
+    "kind": "fillBlank",
+    "prompt": "What ___ you ___ now? (do)",
+    "promptAr": "أكمل بالكلمتين مفصولتين بمسافة",
+    "options": null,
+    "answer": "are doing",
+    "explanationAr": "السؤال بالمستمر: are + you + doing."
+   },
+   {
+    "id": "a2-continuous-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "She is studying for her exams this week",
+    "explanationAr": "this week فترة مؤقتة → مستمر."
+   }
+  ]
+ },
+ {
+  "id": "a2-comparatives",
+  "title": "Comparatives and superlatives",
+  "titleAr": "المقارنة والتفضيل",
+  "level": "A2",
+  "summaryAr": "للمقارنة بين شيئين أو اختيار الأفضل بين مجموعة.",
+  "sections": [
+   {
+    "headingAr": "المقارنة",
+    "bodyAr": "صفة قصيرة + er + than، أو more + صفة طويلة + than.",
+    "examples": [
+     "Amman is bigger than Irbid.",
+     "This book is more interesting than that one.",
+     "My car is older than yours."
+    ]
+   },
+   {
+    "headingAr": "التفضيل",
+    "bodyAr": "the + صفة + est، أو the most + صفة طويلة. وهناك صيغ شاذة: good-better-best.",
+    "examples": [
+     "It's the tallest building in the city.",
+     "She is the most intelligent student.",
+     "This is the best day of my life."
+    ]
+   }
+  ],
+  "arabicTip": "لا تجمع بين الطريقتين: «more bigger» خطأ، والصحيح bigger.",
+  "exercises": [
+   {
+    "id": "a2-comparatives-0",
+    "kind": "multipleChoice",
+    "prompt": "Today is ___ than yesterday.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "hotter",
+     "more hot",
+     "hottest"
+    ],
+    "answer": "hotter",
+    "explanationAr": "hot صفة قصيرة: hotter."
+   },
+   {
+    "id": "a2-comparatives-1",
+    "kind": "multipleChoice",
+    "prompt": "This is the ___ restaurant in town.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "better",
+     "best",
+     "good"
+    ],
+    "answer": "best",
+    "explanationAr": "التفضيل من good هو the best."
+   },
+   {
+    "id": "a2-comparatives-2",
+    "kind": "fillBlank",
+    "prompt": "English is ___ (easy) than Chinese.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "easier",
+    "explanationAr": "easy → easier (y تتحول إلى i)."
+   },
+   {
+    "id": "a2-comparatives-3",
+    "kind": "fillBlank",
+    "prompt": "It was the ___ (expensive) hotel we stayed in.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "most expensive",
+    "explanationAr": "صفة طويلة: the most expensive."
+   },
+   {
+    "id": "a2-comparatives-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "My brother is taller than me",
+    "explanationAr": "صيغة المقارنة + than."
+   }
+  ]
+ },
+ {
+  "id": "b1-present-perfect",
+  "title": "Present perfect vs past simple",
+  "titleAr": "المضارع التام مقابل الماضي البسيط",
+  "level": "B1",
+  "summaryAr": "لا يوجد زمن مقابل له في العربية، لذا يحتاج تركيزاً خاصاً.",
+  "sections": [
+   {
+    "headingAr": "المضارع التام",
+    "bodyAr": "have/has + التصريف الثالث: لتجربة حياة بدون وقت محدد، أو شيء بدأ ومستمر، أو نتيجة تهمّنا الآن.",
+    "examples": [
+     "I have visited London twice.",
+     "She has lived here since 2015.",
+     "I've lost my keys!"
+    ]
+   },
+   {
+    "headingAr": "الماضي البسيط",
+    "bodyAr": "عندما نذكر وقتاً محدداً انتهى.",
+    "examples": [
+     "I visited London in 2019.",
+     "She moved here five years ago.",
+     "I lost my keys yesterday."
+    ]
+   },
+   {
+    "headingAr": "since و for",
+    "bodyAr": "since مع نقطة البداية، وfor مع المدة.",
+    "examples": [
+     "since Monday / since 2010",
+     "for three hours / for ten years"
+    ]
+   }
+  ],
+  "arabicTip": "لا نستخدم المضارع التام مع وقت ماضٍ محدد: «I have seen him yesterday» خطأ، والصحيح I saw him yesterday.",
+  "exercises": [
+   {
+    "id": "b1-present-perfect-0",
+    "kind": "multipleChoice",
+    "prompt": "I ___ this film three times.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "saw",
+     "have seen",
+     "see"
+    ],
+    "answer": "have seen",
+    "explanationAr": "تجربة بدون وقت محدد."
+   },
+   {
+    "id": "b1-present-perfect-1",
+    "kind": "multipleChoice",
+    "prompt": "We ___ to Paris last year.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "have gone",
+     "went",
+     "have been"
+    ],
+    "answer": "went",
+    "explanationAr": "last year وقت محدد → ماضٍ بسيط."
+   },
+   {
+    "id": "b1-present-perfect-2",
+    "kind": "multipleChoice",
+    "prompt": "He has worked here ___ 2018.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "for",
+     "since",
+     "from"
+    ],
+    "answer": "since",
+    "explanationAr": "2018 نقطة بداية → since."
+   },
+   {
+    "id": "b1-present-perfect-3",
+    "kind": "fillBlank",
+    "prompt": "___ you ever ___ sushi? (eat)",
+    "promptAr": "أكمل بكلمتين مفصولتين بمسافة",
+    "options": null,
+    "answer": "have eaten",
+    "explanationAr": "Have you ever + التصريف الثالث."
+   },
+   {
+    "id": "b1-present-perfect-4",
+    "kind": "fillBlank",
+    "prompt": "She has been a teacher ___ ten years.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "for",
+    "explanationAr": "ten years مدة → for."
+   },
+   {
+    "id": "b1-present-perfect-5",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "I have never been to Japan",
+    "explanationAr": "never تأتي بين have والتصريف الثالث."
+   }
+  ]
+ },
+ {
+  "id": "b1-future",
+  "title": "Future: will vs going to",
+  "titleAr": "المستقبل: will أو going to",
+  "level": "B1",
+  "summaryAr": "كلاهما للمستقبل لكن بمعانٍ مختلفة.",
+  "sections": [
+   {
+    "headingAr": "will",
+    "bodyAr": "لقرار لحظي، أو وعد، أو توقّع مبني على رأي.",
+    "examples": [
+     "I'll help you with that.",
+     "I think it will rain tomorrow.",
+     "I promise I'll call you."
+    ]
+   },
+   {
+    "headingAr": "going to",
+    "bodyAr": "لخطة مقرّرة مسبقاً، أو توقّع مبني على دليل نراه.",
+    "examples": [
+     "We're going to buy a house next year.",
+     "Look at those clouds! It's going to rain."
+    ]
+   }
+  ],
+  "arabicTip": "بعد will يأتي الفعل الأصلي بدون to: «I will to go» خطأ.",
+  "exercises": [
+   {
+    "id": "b1-future-0",
+    "kind": "multipleChoice",
+    "prompt": "The phone is ringing. — I ___ answer it.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "am going to",
+     "will",
+     "going"
+    ],
+    "answer": "will",
+    "explanationAr": "قرار لحظي."
+   },
+   {
+    "id": "b1-future-1",
+    "kind": "multipleChoice",
+    "prompt": "I've already decided. I ___ study medicine.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "will",
+     "am going to",
+     "going to"
+    ],
+    "answer": "am going to",
+    "explanationAr": "خطة مقرّرة مسبقاً."
+   },
+   {
+    "id": "b1-future-2",
+    "kind": "multipleChoice",
+    "prompt": "Be careful! You ___ fall!",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "will",
+     "are going to",
+     "go to"
+    ],
+    "answer": "are going to",
+    "explanationAr": "توقّع مبني على دليل أمامنا."
+   },
+   {
+    "id": "b1-future-3",
+    "kind": "fillBlank",
+    "prompt": "Don't worry, I ___ tell anyone. (promise, negative)",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "won't|will not",
+    "explanationAr": "الوعد بالنفي: won't."
+   },
+   {
+    "id": "b1-future-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "What are you going to do this weekend",
+    "explanationAr": "سؤال عن خطة: be going to."
+   }
+  ]
+ },
+ {
+  "id": "b1-conditionals",
+  "title": "First and second conditional",
+  "titleAr": "الجمل الشرطية الأولى والثانية",
+  "level": "B1",
+  "summaryAr": "الأولى لاحتمال حقيقي في المستقبل، والثانية لموقف خيالي أو غير مرجّح.",
+  "sections": [
+   {
+    "headingAr": "الشرطية الأولى",
+    "bodyAr": "If + مضارع بسيط، will + فعل.",
+    "examples": [
+     "If it rains, we'll stay at home.",
+     "If you study, you'll pass."
+    ]
+   },
+   {
+    "headingAr": "الشرطية الثانية",
+    "bodyAr": "If + ماضٍ بسيط، would + فعل.",
+    "examples": [
+     "If I had more money, I would travel the world.",
+     "If I were you, I would accept the offer."
+    ]
+   }
+  ],
+  "arabicTip": "لا نستخدم will بعد if: «If it will rain» خطأ، والصحيح If it rains.",
+  "exercises": [
+   {
+    "id": "b1-conditionals-0",
+    "kind": "multipleChoice",
+    "prompt": "If you heat ice, it ___.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "melts",
+     "would melt",
+     "melted"
+    ],
+    "answer": "melts",
+    "explanationAr": "حقيقة علمية."
+   },
+   {
+    "id": "b1-conditionals-1",
+    "kind": "multipleChoice",
+    "prompt": "If I ___ rich, I would buy an island.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "am",
+     "were",
+     "will be"
+    ],
+    "answer": "were",
+    "explanationAr": "شرطية ثانية: If I were."
+   },
+   {
+    "id": "b1-conditionals-2",
+    "kind": "fillBlank",
+    "prompt": "If she calls, I ___ (tell) her the news.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "will tell|'ll tell",
+    "explanationAr": "شرطية أولى: will + فعل."
+   },
+   {
+    "id": "b1-conditionals-3",
+    "kind": "fillBlank",
+    "prompt": "What ___ you do if you lost your phone?",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "would",
+    "explanationAr": "شرطية ثانية: would."
+   },
+   {
+    "id": "b1-conditionals-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "If I were you I would talk to him",
+    "explanationAr": "If I were you للنصيحة."
+   }
+  ]
+ },
+ {
+  "id": "b2-passive",
+  "title": "The passive voice",
+  "titleAr": "المبني للمجهول",
+  "level": "B2",
+  "summaryAr": "عندما يكون الفعل أهمّ من الفاعل، أو الفاعل غير معروف.",
+  "sections": [
+   {
+    "headingAr": "التكوين",
+    "bodyAr": "be (بالزمن المناسب) + التصريف الثالث.",
+    "examples": [
+     "English is spoken all over the world.",
+     "The bridge was built in 1990.",
+     "The results will be announced tomorrow."
+    ]
+   },
+   {
+    "headingAr": "ذكر الفاعل",
+    "bodyAr": "نذكر الفاعل بـ by عند الحاجة فقط.",
+    "examples": [
+     "The novel was written by Naguib Mahfouz.",
+     "My car has been stolen!"
+    ]
+   }
+  ],
+  "arabicTip": "لا تنسَ فعل be: «The house built in 1980» خطأ، والصحيح The house was built in 1980.",
+  "exercises": [
+   {
+    "id": "b2-passive-0",
+    "kind": "multipleChoice",
+    "prompt": "This museum ___ every year by millions of people.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "visits",
+     "is visited",
+     "visited"
+    ],
+    "answer": "is visited",
+    "explanationAr": "مبني للمجهول في المضارع."
+   },
+   {
+    "id": "b2-passive-1",
+    "kind": "multipleChoice",
+    "prompt": "The letters ___ yesterday.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "were sent",
+     "sent",
+     "are sent"
+    ],
+    "answer": "were sent",
+    "explanationAr": "yesterday → ماضٍ: were sent."
+   },
+   {
+    "id": "b2-passive-2",
+    "kind": "fillBlank",
+    "prompt": "The new hospital ___ (open) next month.",
+    "promptAr": "اكتب صيغة المستقبل المجهول",
+    "options": null,
+    "answer": "will be opened",
+    "explanationAr": "will be + التصريف الثالث."
+   },
+   {
+    "id": "b2-passive-3",
+    "kind": "fillBlank",
+    "prompt": "My phone has ___ (repair).",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "been repaired",
+    "explanationAr": "has been + التصريف الثالث."
+   },
+   {
+    "id": "b2-passive-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "The meeting was cancelled because of the storm",
+    "explanationAr": "مبني للمجهول بالماضي."
+   }
+  ]
+ },
+ {
+  "id": "b2-reported-speech",
+  "title": "Reported speech",
+  "titleAr": "الكلام المنقول",
+  "level": "B2",
+  "summaryAr": "لنقل ما قاله شخص آخر، غالباً بإرجاع الزمن خطوة للخلف.",
+  "sections": [
+   {
+    "headingAr": "إرجاع الزمن",
+    "bodyAr": "المضارع → ماضٍ، الماضي → ماضٍ تام، will → would.",
+    "examples": [
+     "\"I'm tired.\" → She said (that) she was tired.",
+     "\"I will help.\" → He said he would help."
+    ]
+   },
+   {
+    "headingAr": "الأسئلة المنقولة",
+    "bodyAr": "نستخدم ترتيب الجملة الخبرية، ومع أسئلة yes/no نستخدم if أو whether.",
+    "examples": [
+     "She asked me where I lived.",
+     "He asked if I was ready."
+    ]
+   }
+  ],
+  "arabicTip": "في السؤال المنقول لا نقلب الترتيب: «She asked where did I live» خطأ.",
+  "exercises": [
+   {
+    "id": "b2-reported-speech-0",
+    "kind": "multipleChoice",
+    "prompt": "\"I love this city.\" → He said he ___ the city.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "loves",
+     "loved",
+     "has loved"
+    ],
+    "answer": "loved",
+    "explanationAr": "المضارع يصبح ماضياً."
+   },
+   {
+    "id": "b2-reported-speech-1",
+    "kind": "multipleChoice",
+    "prompt": "She asked me ___.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "where do I work",
+     "where I worked",
+     "where did I work"
+    ],
+    "answer": "where I worked",
+    "explanationAr": "ترتيب خبري في السؤال المنقول."
+   },
+   {
+    "id": "b2-reported-speech-2",
+    "kind": "fillBlank",
+    "prompt": "\"I will call you.\" → He promised he ___ call me.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "would",
+    "explanationAr": "will → would."
+   },
+   {
+    "id": "b2-reported-speech-3",
+    "kind": "fillBlank",
+    "prompt": "\"Are you hungry?\" → She asked ___ I was hungry.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "if|whether",
+    "explanationAr": "سؤال yes/no → if/whether."
+   },
+   {
+    "id": "b2-reported-speech-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "He told me that he had finished the report",
+    "explanationAr": "الماضي يصبح ماضياً تاماً."
+   }
+  ]
+ },
+ {
+  "id": "b2-relative",
+  "title": "Relative clauses",
+  "titleAr": "الجمل الموصولة",
+  "level": "B2",
+  "summaryAr": "لربط المعلومات باستخدام who, which, that, whose, where.",
+  "sections": [
+   {
+    "headingAr": "أسماء الموصول",
+    "bodyAr": "who للأشخاص، which للأشياء، that للاثنين، whose للملكية، where للمكان.",
+    "examples": [
+     "The man who called you is my uncle.",
+     "The book which I bought is excellent.",
+     "That's the woman whose son is a pilot.",
+     "This is the café where we met."
+    ]
+   },
+   {
+    "headingAr": "لا ضمير إضافي",
+    "bodyAr": "لا نكرّر الضمير بعد اسم الموصول كما نفعل بالعربية.",
+    "examples": [
+     "The car that I bought is red. (not: that I bought it)"
+    ]
+   }
+  ],
+  "arabicTip": "بالعربية نقول «السيارة التي اشتريتها»، لكن بالإنجليزية لا نضيف it: The car that I bought.",
+  "exercises": [
+   {
+    "id": "b2-relative-0",
+    "kind": "multipleChoice",
+    "prompt": "The student ___ won the prize is from Egypt.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "which",
+     "who",
+     "whose"
+    ],
+    "answer": "who",
+    "explanationAr": "شخص → who."
+   },
+   {
+    "id": "b2-relative-1",
+    "kind": "multipleChoice",
+    "prompt": "I know a girl ___ father is a famous singer.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "who",
+     "whose",
+     "which"
+    ],
+    "answer": "whose",
+    "explanationAr": "ملكية → whose."
+   },
+   {
+    "id": "b2-relative-2",
+    "kind": "multipleChoice",
+    "prompt": "Which sentence is correct?",
+    "promptAr": "أي جملة صحيحة؟",
+    "options": [
+     "The phone that I bought it is broken.",
+     "The phone that I bought is broken."
+    ],
+    "answer": "The phone that I bought is broken.",
+    "explanationAr": "لا نكرّر الضمير it."
+   },
+   {
+    "id": "b2-relative-3",
+    "kind": "fillBlank",
+    "prompt": "That's the hotel ___ we stayed last summer.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "where",
+    "explanationAr": "مكان → where."
+   },
+   {
+    "id": "b2-relative-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "The film which we watched was amazing",
+    "explanationAr": "which للأشياء."
+   }
+  ]
+ },
+ {
+  "id": "c1-inversion",
+  "title": "Inversion for emphasis",
+  "titleAr": "القلب للتوكيد",
+  "level": "C1",
+  "summaryAr": "أسلوب رسمي قوي يُستخدم في الكتابة والخطابة وامتحان IELTS.",
+  "sections": [
+   {
+    "headingAr": "بعد التعابير السلبية",
+    "bodyAr": "عند بدء الجملة بـ Never, Rarely, Not only, Hardly نقلب الفاعل والفعل المساعد.",
+    "examples": [
+     "Never have I seen such a beautiful view.",
+     "Not only did she win, but she also broke the record.",
+     "Rarely do we get such an opportunity."
+    ]
+   },
+   {
+    "headingAr": "Only / No sooner",
+    "bodyAr": "Only after, Only when, No sooner… than.",
+    "examples": [
+     "Only after the meeting did I understand the problem.",
+     "No sooner had we arrived than it started to rain."
+    ]
+   }
+  ],
+  "arabicTip": "استخدم القلب باعتدال؛ فهو رسمي وقد يبدو غريباً في الحديث اليومي.",
+  "exercises": [
+   {
+    "id": "c1-inversion-0",
+    "kind": "multipleChoice",
+    "prompt": "Never ___ such a delicious meal.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "I have eaten",
+     "have I eaten",
+     "I ate"
+    ],
+    "answer": "have I eaten",
+    "explanationAr": "بعد Never نقلب: have I."
+   },
+   {
+    "id": "c1-inversion-1",
+    "kind": "multipleChoice",
+    "prompt": "Not only ___ late, but he also forgot the tickets.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "he was",
+     "was he",
+     "he is"
+    ],
+    "answer": "was he",
+    "explanationAr": "Not only + قلب."
+   },
+   {
+    "id": "c1-inversion-2",
+    "kind": "fillBlank",
+    "prompt": "Rarely ___ he complain about anything. (present)",
+    "promptAr": "أكمل بالفعل المساعد",
+    "options": null,
+    "answer": "does",
+    "explanationAr": "Rarely + does + فاعل + فعل."
+   },
+   {
+    "id": "c1-inversion-3",
+    "kind": "fillBlank",
+    "prompt": "No sooner had I sat down ___ the phone rang.",
+    "promptAr": "أكمل",
+    "options": null,
+    "answer": "than",
+    "explanationAr": "No sooner… than."
+   },
+   {
+    "id": "c1-inversion-4",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "Only then did I realise my mistake",
+    "explanationAr": "Only then + did + فاعل + فعل."
+   }
+  ]
+ },
+ {
+  "id": "c1-mixed-conditionals",
+  "title": "Third and mixed conditionals",
+  "titleAr": "الشرطية الثالثة والمختلطة",
+  "level": "C1",
+  "summaryAr": "للحديث عن الماضي الذي لم يحدث ونتائجه.",
+  "sections": [
+   {
+    "headingAr": "الشرطية الثالثة",
+    "bodyAr": "If + ماضٍ تام، would have + التصريف الثالث (ماضٍ لم يحدث).",
+    "examples": [
+     "If I had studied harder, I would have passed.",
+     "If we had left earlier, we wouldn't have missed the train."
+    ]
+   },
+   {
+    "headingAr": "المختلطة",
+    "bodyAr": "شرط في الماضي ونتيجة في الحاضر، أو العكس.",
+    "examples": [
+     "If I had taken that job, I would be rich now.",
+     "If she weren't so shy, she would have spoken at the meeting."
+    ]
+   }
+  ],
+  "arabicTip": "خطأ شائع: «If I would have known» والصحيح If I had known.",
+  "exercises": [
+   {
+    "id": "c1-mixed-conditionals-0",
+    "kind": "multipleChoice",
+    "prompt": "If they ___ the map, they wouldn't have got lost.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "checked",
+     "had checked",
+     "would check"
+    ],
+    "answer": "had checked",
+    "explanationAr": "شرطية ثالثة: had + التصريف الثالث."
+   },
+   {
+    "id": "c1-mixed-conditionals-1",
+    "kind": "multipleChoice",
+    "prompt": "If I had saved money, I ___ a car now.",
+    "promptAr": "اختر الصحيح",
+    "options": [
+     "would have",
+     "would have had",
+     "had"
+    ],
+    "answer": "would have",
+    "explanationAr": "شرط ماضٍ ونتيجة حاضرة: would have (يمتلك الآن)."
+   },
+   {
+    "id": "c1-mixed-conditionals-2",
+    "kind": "fillBlank",
+    "prompt": "If you had told me, I ___ helped you.",
+    "promptAr": "أكمل بكلمتين مفصولتين بمسافة",
+    "options": null,
+    "answer": "would have",
+    "explanationAr": "would have + التصريف الثالث."
+   },
+   {
+    "id": "c1-mixed-conditionals-3",
+    "kind": "reorder",
+    "prompt": "Put the words in the correct order.",
+    "promptAr": "رتّب الكلمات",
+    "options": null,
+    "answer": "If I had known I would have come",
+    "explanationAr": "شرطية ثالثة كاملة."
+   }
+  ]
+ }
+]
